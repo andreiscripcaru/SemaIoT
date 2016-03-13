@@ -1,0 +1,10 @@
+{
+	"users" :
+	[ {
+		"name" : "Andrei",
+		"role" : "admin"
+	}, {
+		"name" : "Guest",
+		"role" : "read"
+	} ]
+}

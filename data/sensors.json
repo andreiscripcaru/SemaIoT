@@ -1,0 +1,12 @@
+{
+	"topicBase": "romania/bucuresti/sector1/scripcaru/home",
+	"sensors":
+		[
+		 {"name": "Poarta Mare", "topic": "poartamare", "id": "10", "status": ""},
+		 {"name": "Usa Intrare", "topic": "usa_intrare", "id": "20", "status": ""},
+
+		 {"name": "Alerts", "topic": "alerts", "id": "30", "status": ""},
+		 {"name": "Relay 1 control", "topic": "relay_control_r001", "id": "40", "status": ""},
+		 {"name": "Relay 1 status", "topic": "relay_status_r001", "id": "50", "status": ""}
+		 ]
+}
